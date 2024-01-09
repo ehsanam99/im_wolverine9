@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ehsanam99
+- 👋 Hi, I’m ehsan
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning wordpress
 - 💞️ I’m looking to collaborate on wordpress
@@ -6,3 +6,4 @@
 
 
 I was interested in programming when I was a child and now I am learning WordPress
+im from iran💙💙
